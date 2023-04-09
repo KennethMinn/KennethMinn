@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **minthukha2472005@gmail.com**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethMinn)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kenneth-minn-265875250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenneth-minn-265875250/" height="30" width="40" /></a>
