@@ -1,5 +1,5 @@
 <div align="center">>
-![Ippo my man](https://github.com/KennethMinn/KennethMinn/blob/main/75f6ec77502269527c275233c2c9ee55.jpg)
+   <img src="[image_path](https://github.com/KennethMinn/KennethMinn/blob/main/75f6ec77502269527c275233c2c9ee55.jpg)" alt="Ippo my man">
 </div>
 <h1 align="center">Hi 👋, I'm Min Thu Kha</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
