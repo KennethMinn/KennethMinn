@@ -1,6 +1,4 @@
-<div align="center">>
-   <img src="[image_path](https://github.com/KennethMinn/KennethMinn/blob/main/75f6ec77502269527c275233c2c9ee55.jpg)" alt="Ippo my man">
-</div>
+![Ippo my man]([http://url/to/img.png](https://github.com/KennethMinn/KennethMinn/blob/main/75f6ec77502269527c275233c2c9ee55.jpg))
 <h1 align="center">Hi 👋, I'm Min Thu Kha</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
