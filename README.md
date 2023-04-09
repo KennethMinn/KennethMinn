@@ -22,15 +22,14 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a frontend developer who is passionate about writing code, solving problems, and building software.
 
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+- 🔭 I’m currently a learning frontend development at MMSIT and Udemy courses.
+- 📚 I’m currently learning  frontend web development using Html, css, sass , bootstrap, tailwindcss, javascript and Reactjs.
+- 👯 I’m looking for a web development internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kenneth-minn-265875250/) [Gmail](mailto:minthukha2472005@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+⭐️ From [hazemessam](https://github.com/KennethMinn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
