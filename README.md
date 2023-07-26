@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **Complete React Developer Course(zero to mastery)**
+- 🌱 I've completed **Complete React Developer Course(zero to mastery)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KennethMinn](https://github.com/KennethMinn)
 
