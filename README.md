@@ -18,7 +18,7 @@
 
 I'm a frontend developer who is passionate about writing code, solving problems, and building software.
 
-- 🔭 I’m currently learning frontend development at MMSIT and Udemy courses.
+- 🔭 I’m currently learning fullstack development at MMSIT and Udemy courses.
 - 📚 I’m currently learning  frontend web development using Html, css, sass , bootstrap, tailwindcss, javascript and Reactjs.
 - 👯 I’m looking for a web development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kenneth-minn-265875250/) [Gmail](mailto:minthukha2472005@gmail.com)
