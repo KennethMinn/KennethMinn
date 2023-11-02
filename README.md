@@ -4,7 +4,7 @@
 <h1 align="center">Hello, I'm Min Thu Kha</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-- 🔭 I’m currently working on **React projects**
+- 🔭 I’m currently working on **ReactJs && NextJs projects**
 
 - 🌱 I've completed **Complete React Developer Course(zero to mastery)**
 
