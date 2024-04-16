@@ -47,5 +47,5 @@ I'm a frontend developer who is passionate about writing code, solving problems,
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/9ynx8gh7pmzk/3zywxqIxpGCcsZl5QTUxA5/5d22d2fe2a393f46eb9d424a32749ddb/AdobeStock_485795755_Editorial_Use_Only_thumb_resized.jpg?w=800&h=536&fl=progressive&q=100&fm=jpg" alt="typescript" width="40" height="40"/> </a>
  </p>
