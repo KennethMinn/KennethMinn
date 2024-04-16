@@ -20,7 +20,7 @@ I'm a frontend developer who is passionate about writing code, solving problems,
 
 - 🔭 I’m currently learning fullstack development at MMSIT and Udemy courses.
 - 📚 I’m currently learning  frontend web development using Html, css, sass , bootstrap, tailwindcss, javascript, Reactjs, NextJs, NodeJs and Laravel.
-- 👯 I’m looking for a web development internship. 
+- 👯 I’m looking for a frontend development job. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kenneth-minn-265875250/) [Gmail](mailto:minthukha2472005@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethMinn&show_icons=true&theme=dark)
